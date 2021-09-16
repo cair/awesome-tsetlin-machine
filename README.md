@@ -28,12 +28,14 @@ A curated list of Tsetlin Machine research
 
 ### Researchers
 1. [Christian Blakely](https://cair.uia.no/people/christian-d-blakely/)
-2. [Lei Jiao](https://cair.uia.no/people/lei-jiao/)
-3. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
-4. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
-5. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
-6. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
-7. ...
+2. [Sondre Glimsdal](https://cair.uia.no/people/sondre-glimsdal)
+4. [Lei Jiao](https://cair.uia.no/people/lei-jiao/)
+5. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
+6. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
+7. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
+8. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
+9. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
+10. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
