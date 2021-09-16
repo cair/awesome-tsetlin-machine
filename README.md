@@ -3,17 +3,17 @@ A curated list of Tsetlin Machine research
 
 ## Table of Contents
 
-* **[Books](#books)**
+* **[Books](#Books)**
 
 * **[Papers](#Papers)**  
 
-* **[Courses](#courses)**  
+* **[Courses](#Courses)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* **[Videos and Lectures](#Videos-and-lectures)**  
 
-* **[Researchers](#)**  
+* **[Researchers](#Researchers)**  
 
-* **[Contributing](#contributing)** 
+* **[Contributing](#Contributing)** 
 
 ### Books
 1. [An Introduction to Tsetlin Machines](https://tsetlinmachine.org/) by Ole-Christoffer Granmo (2021)
@@ -29,6 +29,7 @@ A curated list of Tsetlin Machine research
 ### Researchers
 1. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
 2. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
+3. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
