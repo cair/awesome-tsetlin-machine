@@ -41,9 +41,11 @@ A curated list of Tsetlin Machine research
 13. [Rupsa Saha](https://cair.uia.no/people/rupsa-saha/)
 14. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
 15. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
-16. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
-17. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
-18. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
+16. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
+17. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
+18. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
+19. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
+20. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
