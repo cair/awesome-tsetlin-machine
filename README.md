@@ -28,6 +28,7 @@ A curated list of Tsetlin Machine research
 
 ### Researchers
 1. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
+2. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
