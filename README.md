@@ -5,7 +5,7 @@ A curated list of Tsetlin Machine research
 
 * **[Books](#books)**
 
-* **[Papers](#papers)**  
+* **[Papers](#Papers)**  
 
 * **[Courses](#courses)**  
 
