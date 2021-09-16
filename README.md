@@ -27,9 +27,10 @@ A curated list of Tsetlin Machine research
 1. [Tsetlin Machine - A new paradigm for pervasive AI](https://www.youtube.com/watch?v=TaspuovmSR8)
 
 ### Researchers
-1. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
-2. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
-3. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
+1. [Christian Blakely(https://cair.uia.no/people/christian-d-blakely/)
+2. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
+3. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
+4. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
