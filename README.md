@@ -38,14 +38,15 @@ A curated list of Tsetlin Machine research
 10. [Lei Jiao](https://cair.uia.no/people/lei-jiao/)
 11. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
 12. [Ana Ozaki](https://cair.uia.no/people/ana-ozaki/)
-13. [Rupsa Saha](https://cair.uia.no/people/rupsa-saha/)
-14. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
-15. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
-16. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
-17. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
-18. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
-19. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
-20. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
+13. [Tousif Rahman](https://www.linkedin.com/in/sheikh-tousif-rahman-55b38413a/?originalSubdomain=uk)
+14. [Rupsa Saha](https://cair.uia.no/people/rupsa-saha/)
+15. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
+16. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
+17. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
+18. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
+19. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
+20. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
+21. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
