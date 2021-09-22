@@ -47,12 +47,13 @@ A curated list of Tsetlin Machine research
 19. [Raihan Seraj](https://mila.quebec/en/person/raihan-seraj/)
 20. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
 21. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
-22. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
-23. [Adrian Wheeldon](https://www.linkedin.com/in/adrian-wheeldon/?originalSubdomain=uk)
-24. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
-25. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
-26. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
-27. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
+22. [Amna Javed Tiwana](https://www.researchgate.net/profile/Amna-Tiwana)
+23. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
+24. [Adrian Wheeldon](https://www.linkedin.com/in/adrian-wheeldon/?originalSubdomain=uk)
+25. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
+26. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
+27. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
+28. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
