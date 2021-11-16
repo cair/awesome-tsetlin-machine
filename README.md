@@ -23,6 +23,7 @@ A curated list of Tsetlin Machine research
 2. [Resilient Biomedical Systems Design Under Noise using Logic based Machine Learning](https://www.frontiersin.org/articles/10.3389/fcteg.2021.778118)
 3. [Using Tsetlin Machine to discover interpretable rules in natural language processing applications](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12873)
 4. [A multi-step finite-state automaton for arbitrarily deterministic Tsetlin Machine learning](https://onlinelibrary.wiley.com/doi/10.1111/exsy.12836)
+5. [On the Convergence of Tsetlin Machines for the IDENTITY- and NOT Operators](https://ieeexplore.ieee.org/document/9445039)
 
 ### Courses
 
