@@ -21,6 +21,7 @@ A curated list of Tsetlin Machine research
 ### Papers
 1. [The Tsetlin Machine -- A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic](https://arxiv.org/abs/1804.01508) [[Code](https://github.com/cair/TsetlinMachine)]
 2. [Resilient Biomedical Systems Design Under Noise using Logic based Machine Learning](https://www.frontiersin.org/articles/10.3389/fcteg.2021.778118)
+3. [Using Tsetlin Machine to discover interpretable rules in natural language processing applications](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12873)
 
 ### Courses
 
