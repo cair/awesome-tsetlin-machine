@@ -20,12 +20,12 @@ A curated list of Tsetlin Machine research
 
 ### Papers
 1. [The Tsetlin Machine -- A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic](https://arxiv.org/abs/1804.01508) [[Code](https://github.com/cair/TsetlinMachine)]
-2. [Resilient Biomedical Systems Design Under Noise using Logic based Machine Learning](https://www.frontiersin.org/articles/10.3389/fcteg.2021.778118)
-3. [Using Tsetlin Machine to discover interpretable rules in natural language processing applications](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12873)
-4. [A multi-step finite-state automaton for arbitrarily deterministic Tsetlin Machine learning](https://onlinelibrary.wiley.com/doi/10.1111/exsy.12836)
-5. [On the Convergence of Tsetlin Machines for the IDENTITY- and NOT Operators](https://ieeexplore.ieee.org/document/9445039)
-6. [Low-Power Audio Keyword Spotting Using Tsetlin Machines](https://www.mdpi.com/2079-9268/11/2/18)
-7. [Massively Parallel and Asynchronous Tsetlin Machine Architecture Supporting Almost Constant-Time Scaling](https://proceedings.mlr.press/v139/abeyrathna21a.html)[[Code]](https://github.com/cair/PyTsetlinMachineCUDA)
+2. [Massively Parallel and Asynchronous Tsetlin Machine Architecture Supporting Almost Constant-Time Scaling](https://proceedings.mlr.press/v139/abeyrathna21a.html) [[Code]](https://github.com/cair/PyTsetlinMachineCUDA)
+3. [Resilient Biomedical Systems Design Under Noise using Logic based Machine Learning](https://www.frontiersin.org/articles/10.3389/fcteg.2021.778118)
+4. [Using Tsetlin Machine to discover interpretable rules in natural language processing applications](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12873)
+5. [A multi-step finite-state automaton for arbitrarily deterministic Tsetlin Machine learning](https://onlinelibrary.wiley.com/doi/10.1111/exsy.12836)
+6. [On the Convergence of Tsetlin Machines for the IDENTITY- and NOT Operators](https://ieeexplore.ieee.org/document/9445039)
+7. [Low-Power Audio Keyword Spotting Using Tsetlin Machines](https://www.mdpi.com/2079-9268/11/2/18)
 
 ### Courses
 
