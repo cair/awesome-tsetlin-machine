@@ -25,6 +25,7 @@ A curated list of Tsetlin Machine research
 4. [A multi-step finite-state automaton for arbitrarily deterministic Tsetlin Machine learning](https://onlinelibrary.wiley.com/doi/10.1111/exsy.12836)
 5. [On the Convergence of Tsetlin Machines for the IDENTITY- and NOT Operators](https://ieeexplore.ieee.org/document/9445039)
 6. [Low-Power Audio Keyword Spotting Using Tsetlin Machines](https://www.mdpi.com/2079-9268/11/2/18)
+7. [Massively Parallel and Asynchronous Tsetlin Machine Architecture Supporting Almost Constant-Time Scaling](https://proceedings.mlr.press/v139/abeyrathna21a.html)[[Code]](https://github.com/cair/PyTsetlinMachineCUDA)
 
 ### Courses
 
