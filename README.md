@@ -21,7 +21,7 @@ A curated list of Tsetlin Machine research
 1. [An Introduction to Tsetlin Machines](https://tsetlinmachine.org/) by Ole-Christoffer Granmo (2021)
 
 ### Conferences
-1. [The International Symposium on the Tsetlin Machine](https://www.istm.no)
+1. [International Symposium on the Tsetlin Machine (ISTM)](https://istm.no)
 
 ### Papers
 1. [The Tsetlin Machine -- A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic](https://arxiv.org/abs/1804.01508) [[Code](https://github.com/cair/TsetlinMachine)]
