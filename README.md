@@ -34,6 +34,7 @@ A curated list of Tsetlin Machine research
 6. [On the Convergence of Tsetlin Machines for the IDENTITY- and NOT Operators](https://ieeexplore.ieee.org/document/9445039)
 7. [Low-Power Audio Keyword Spotting Using Tsetlin Machines](https://www.mdpi.com/2079-9268/11/2/18)
 8. [Robust Interpretable Text Classification against Spurious Correlations Using AND-rules with Negation](https://www.ijcai.org/proceedings/2022/616)
+9. [Logic-based AI for Interpretable Board Game Winner Prediction with Tsetlin Machine](https://arxiv.org/abs/2203.04378)
 
 ### Courses
 
@@ -60,20 +61,21 @@ A curated list of Tsetlin Machine research
 12. [Lei Jiao](https://cair.uia.no/people/lei-jiao/)
 13. [Jie Lei](https://twitter.com/that_jielei)
 14. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
-15. [Ana Ozaki](https://cair.uia.no/people/ana-ozaki/)
-16. [Cosimo Damiano Persia](https://www.uib.no/en/persons/Cosimo.Damiano.Persia)
-17. [Tousif Rahman](https://www.linkedin.com/in/sheikh-tousif-rahman-55b38413a/?originalSubdomain=uk)
-18. [Rupsa Saha](https://cair.uia.no/people/rupsa-saha/)
-19. [Raihan Seraj](https://mila.quebec/en/person/raihan-seraj/)
-20. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
-21. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
-22. [Amna Javed Tiwana](https://www.researchgate.net/profile/Amna-Tiwana)
-23. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
-24. [Adrian Wheeldon](https://www.linkedin.com/in/adrian-wheeldon/?originalSubdomain=uk)
-25. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
-26. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
-27. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
-28. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
+15. Sidharth Maheshwari (https://www.linkedin.com/in/maheshwari-sidharth/)
+16. [Ana Ozaki](https://cair.uia.no/people/ana-ozaki/)
+17. [Cosimo Damiano Persia](https://www.uib.no/en/persons/Cosimo.Damiano.Persia)
+18. [Tousif Rahman](https://www.linkedin.com/in/sheikh-tousif-rahman-55b38413a/?originalSubdomain=uk)
+19. [Rupsa Saha](https://cair.uia.no/people/rupsa-saha/)
+20. [Raihan Seraj](https://mila.quebec/en/person/raihan-seraj/)
+21. [Rishad Shafik](https://www.ncl.ac.uk/engineering/staff/profile/rishadshafik.html)
+22. [Jivitesh Sharma](https://cair.uia.no/people/jivitesh-sharma)
+23. [Amna Javed Tiwana](https://www.researchgate.net/profile/Amna-Tiwana)
+24. [Svein Anders Tunheim](https://cair.uia.no/people/svein-anders-tunheim/)
+25. [Adrian Wheeldon](https://www.linkedin.com/in/adrian-wheeldon/?originalSubdomain=uk)
+26. [Rohan Yadav](https://cair.uia.no/people/rohan-kumar-yadav/)
+27. [Alex Yakovlev](https://www.ncl.ac.uk/engineering/staff/profile/alexyakovlev.html)
+28. [Vladimir I. Zadorozhny](https://sites.pitt.edu/~viz/)
+29. [Xuan Zhang](https://cair.uia.no/people/xuan-zhang/)
 
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/cair/awesome-tsetlin-machine/pulls).
