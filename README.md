@@ -45,6 +45,7 @@ A curated list of Tsetlin Machine research
 1. [Tsetlin Machine Unified - One Codebase to Rule Them All](https://github.com/cair/tmu)
 
 ### Videos and Lectures
+
 1. [Tsetlin Machine - A new paradigm for pervasive AI](https://www.youtube.com/watch?v=TaspuovmSR8)
 
 ### Researchers
@@ -52,16 +53,17 @@ A curated list of Tsetlin Machine research
 2. [Ahmed Abdulrahem Abouzeid](https://cair.uia.no/people/ahmed-abdulrahem-abouzeid/)
 3. [Geir Thore Berge](https://cair.uia.no/people/geir-thore-berge/)
 4. [Bimal Bhattarai](https://cair.uia.no/people/bimal-bhattarai/)
-6. [Christian Blakely](https://cair.uia.no/people/christian-d-blakely/)
-7. [Charul Giri](https://www.uia.no/kk/profil/charug18)
-8. [Sondre Glimsdal](https://cair.uia.no/people/sondre-glimsdal)
-9. [Morten Goodwin](https://cair.uia.no/people/morten-goodwin)
-10. [Herke van Hoof](https://staff.fnwi.uva.nl/h.c.vanhoof/homepage/)
-11. [Saeed Rahimi Gorji](https://cair.uia.no/people/saeed-rahimi-gorji/)
+5. [Christian Blakely](https://cair.uia.no/people/christian-d-blakely/)
+6. [Charul Giri](https://www.uia.no/kk/profil/charug18)
+7. [Sondre Glimsdal](https://cair.uia.no/people/sondre-glimsdal)
+8. [Morten Goodwin](https://cair.uia.no/people/morten-goodwin)
+9. [Saeed Rahimi Gorji](https://cair.uia.no/people/saeed-rahimi-gorji/)
+10. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
+11. [Herke van Hoof](https://staff.fnwi.uva.nl/h.c.vanhoof/homepage/)
 12. [Lei Jiao](https://cair.uia.no/people/lei-jiao/)
 13. [Jie Lei](https://twitter.com/that_jielei)
-14. [Ole-Christoffer Granmo](https://cair.uia.no/people/ole-christoffer-granmo/)
-15. Sidharth Maheshwari (https://www.linkedin.com/in/maheshwari-sidharth/)
+14. [Sidharth Maheshwari](https://www.linkedin.com/in/maheshwari-sidharth/)
+15. [Jordan Morris](https://www.researchgate.net/profile/Jordan-Morris-4)
 16. [Ana Ozaki](https://cair.uia.no/people/ana-ozaki/)
 17. [Cosimo Damiano Persia](https://www.uib.no/en/persons/Cosimo.Damiano.Persia)
 18. [Tousif Rahman](https://www.linkedin.com/in/sheikh-tousif-rahman-55b38413a/?originalSubdomain=uk)
