@@ -33,6 +33,7 @@ A curated list of Tsetlin Machine research
 5. [A multi-step finite-state automaton for arbitrarily deterministic Tsetlin Machine learning](https://onlinelibrary.wiley.com/doi/10.1111/exsy.12836)
 6. [On the Convergence of Tsetlin Machines for the IDENTITY- and NOT Operators](https://ieeexplore.ieee.org/document/9445039)
 7. [Low-Power Audio Keyword Spotting Using Tsetlin Machines](https://www.mdpi.com/2079-9268/11/2/18)
+8. [Robust Interpretable Text Classification against Spurious Correlations Using AND-rules with Negation](https://www.ijcai.org/proceedings/2022/616)
 
 ### Courses
 
