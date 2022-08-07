@@ -11,7 +11,7 @@ A curated list of Tsetlin Machine research
 
 * **[Courses](#Courses)**  
 
-* **[Implementations](*Implementations)**
+* **[Implementations](#Implementations)**
 
 * **[Videos and Lectures](#Videos-and-lectures)**  
 
