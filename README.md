@@ -34,6 +34,9 @@ A curated list of Tsetlin Machine research
 
 ### Courses
 
+### Implementations
+
+1.[Tsetlin Machine Unified - One Codebase to Rule Them All](https://github.com/cair/tmu)
 ### Videos and Lectures
 1. [Tsetlin Machine - A new paradigm for pervasive AI](https://www.youtube.com/watch?v=TaspuovmSR8)
 
