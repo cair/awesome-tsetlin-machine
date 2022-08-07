@@ -36,6 +36,8 @@ A curated list of Tsetlin Machine research
 
 ### Courses
 
+1. [Learning Systems](https://www.uia.no/en/studieplaner/topic/IKT457-G)
+
 ### Implementations
 
 1. [Tsetlin Machine Unified - One Codebase to Rule Them All](https://github.com/cair/tmu)
