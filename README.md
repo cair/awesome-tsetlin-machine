@@ -9,7 +9,9 @@ A curated list of Tsetlin Machine research
 
 * **[Papers](#Papers)**  
 
-* **[Courses](#Courses)**  
+* **[Courses](#Courses)**
+
+* **[Theses](#Theses)**
 
 * **[Implementations](#Implementations)**
 
@@ -41,6 +43,8 @@ A curated list of Tsetlin Machine research
 ### Courses
 
 1. [Learning Systems](https://www.uia.no/en/studieplaner/topic/IKT457-G)
+
+### Theses
 
 ### Implementations
 
