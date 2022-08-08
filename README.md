@@ -35,6 +35,8 @@ A curated list of Tsetlin Machine research
 7. [Low-Power Audio Keyword Spotting Using Tsetlin Machines](https://www.mdpi.com/2079-9268/11/2/18)
 8. [Robust Interpretable Text Classification against Spurious Correlations Using AND-rules with Negation](https://www.ijcai.org/proceedings/2022/616)
 9. [Logic-based AI for Interpretable Board Game Winner Prediction with Tsetlin Machine](https://arxiv.org/abs/2203.04378)
+10. [ConvTextTM: An Explainable Convolutional Tsetlin Machine Framework for Text Classification](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.401.pdf)
+11. [Explainable Tsetlin Machine Framework for Fake News Detection with Credibility Score Assessment](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.523.pdf)
 
 ### Courses
 
