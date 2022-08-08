@@ -11,7 +11,7 @@ A curated list of Tsetlin Machine research
 
 * **[Courses](#Courses)**
 
-* **[Theses](#Theses)**
+* **[Doctoral Theses](#Doctoral-Theses)**
 
 * **[Implementations](#Implementations)**
 
@@ -44,7 +44,9 @@ A curated list of Tsetlin Machine research
 
 1. [Learning Systems](https://www.uia.no/en/studieplaner/topic/IKT457-G)
 
-### Theses
+### Doctoral Theses
+
+1. [Novel Tsetlin Machine Mechanisms for Logic-based Regression and Classification with Support for Continuous Input, Clause Weighting, Confidence Assessment, Deterministic Learning, and Convolution]()
 
 ### Implementations
 
