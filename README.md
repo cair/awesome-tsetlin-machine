@@ -46,7 +46,7 @@ A curated list of Tsetlin Machine research
 
 ### Doctoral Theses
 
-1. [Novel Tsetlin Machine Mechanisms for Logic-based Regression and Classification with Support for Continuous Input, Clause Weighting, Confidence Assessment, Deterministic Learning, and Convolution](https://uia.brage.unit.no/uia-xmlui/handle/11250/2990166)
+1. [Novel Tsetlin Machine Mechanisms for Logic-based Regression and Classification with Support for Continuous Input, Clause Weighting, Confidence Assessment, Deterministic Learning, and Convolution](https://uia.brage.unit.no/uia-xmlui/handle/11250/2990166) by [Darshana Abeyrathna](https://www.linkedin.com/in/darshana-abeyrathna-0425a275)
 
 ### Implementations
 
